@@ -13,18 +13,15 @@
     "prepublish": "scripts/prepublish"
   },
   "dependencies": {
-    "protagonist": "~1.2.5",
-    "optimist": "~0.6.0",
-    "express": "~3.4.7",
-    "uri-template": "~1.0.0",
-    "winston": "~2.1.1"
+    "protagonist": "1.6.x",
+    "optimist": "0.6.x",
+    "express": "4.14.x",
+    "uri-template": "1.0.x",
+    "winston": "2.3.x"
   },
   "devDependencies": {
-    "coffee-script": "1.6.3",
-    "coffee-errors": "~0.8.4",
     "mocha": "1.17.0",
     "chai": "~1.9.0",
-    "coffee-coverage": "0.4.1",
     "jscoverage": "0.3.8",
     "coveralls": "~2.8.0",
     "mocha-lcov-reporter": "0.0.1",
